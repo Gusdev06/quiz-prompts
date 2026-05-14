@@ -1,0 +1,621 @@
+{
+  "images": [
+    {
+      "url": "https://blackbox.xquiz.io/favicon.ico",
+      "steps": [
+        "step-01",
+        "step-02",
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/favicon.ico",
+      "size": 194750,
+      "content_type": "image/vnd.microsoft.icon"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/01f48bd4-df78-4175-8f94-b18ca0969c7c",
+      "steps": [
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/01f48bd4-df78-4175-8f94-b18ca0969c7c.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/0ad1cf4b-9a93-41b8-8929-f57e3ef4c8d5",
+      "steps": [
+        "step-13"
+      ],
+      "local_path": "assets/step-13/0ad1cf4b-9a93-41b8-8929-f57e3ef4c8d5.webp",
+      "size": 260659,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/11ba0137-23a2-421d-a923-025a6989b7a5",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/11ba0137-23a2-421d-a923-025a6989b7a5.webp",
+      "size": 5649378,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/1cc4d782-cacf-4dc1-9ddc-6605e0b6ef63",
+      "steps": [
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/1cc4d782-cacf-4dc1-9ddc-6605e0b6ef63.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/1da13cdc-9d6a-4ef0-bec3-6d4696cbcfe2",
+      "steps": [
+        "step-13"
+      ],
+      "local_path": "assets/step-13/1da13cdc-9d6a-4ef0-bec3-6d4696cbcfe2.webp",
+      "size": 68271,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/1f70987e-61e8-47b2-b49a-fa0117e36251",
+      "steps": [
+        "step-02",
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/1f70987e-61e8-47b2-b49a-fa0117e36251.webp",
+      "size": 176822,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/233ecbe8-3f36-4f9e-a9ca-c0dc62a6ae63",
+      "steps": [
+        "step-13"
+      ],
+      "local_path": "assets/step-13/233ecbe8-3f36-4f9e-a9ca-c0dc62a6ae63.webp",
+      "size": 64922,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/25e1c062-a11b-4d63-9e54-aae28aa4264d",
+      "steps": [
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/25e1c062-a11b-4d63-9e54-aae28aa4264d.webp",
+      "size": 28520,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/281c615c-136c-4735-ac53-0325f4c0c9f7",
+      "steps": [
+        "step-13"
+      ],
+      "local_path": "assets/step-13/281c615c-136c-4735-ac53-0325f4c0c9f7.webp",
+      "size": 100502,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/31bce5aa-e43b-46b4-a028-b6e18df6e510",
+      "steps": [
+        "step-13"
+      ],
+      "local_path": "assets/step-13/31bce5aa-e43b-46b4-a028-b6e18df6e510.webp",
+      "size": 33780,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/36638059-3ed5-4b42-83f9-32dd0afb3dff",
+      "steps": [
+        "step-13"
+      ],
+      "local_path": "assets/step-13/36638059-3ed5-4b42-83f9-32dd0afb3dff.webp",
+      "size": 73838,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/39ab87e4-3d19-46d7-8313-14837ffb343c",
+      "steps": [
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/39ab87e4-3d19-46d7-8313-14837ffb343c.webp",
+      "size": 802122,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/41836010-80c6-4bfa-bc67-720600381a49",
+      "steps": [
+        "step-01",
+        "step-02",
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/41836010-80c6-4bfa-bc67-720600381a49.webp",
+      "size": 561214,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/4c714ccc-735d-478b-b0fd-f36d122d9435",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/4c714ccc-735d-478b-b0fd-f36d122d9435.webp",
+      "size": 5390449,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/51ab1b94-21ec-4f06-9ad4-7793048fc2d1",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/51ab1b94-21ec-4f06-9ad4-7793048fc2d1.webp",
+      "size": 42110,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/59a75fbd-574e-4e9a-9555-c7cd4452473e",
+      "steps": [
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/59a75fbd-574e-4e9a-9555-c7cd4452473e.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/5fedcfe6-caa8-440d-8724-221d425e19f6",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/5fedcfe6-caa8-440d-8724-221d425e19f6.webp",
+      "size": 6380650,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/61f75e26-4bd4-4984-ae99-3e2ccfa9fae1",
+      "steps": [
+        "step-02",
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/61f75e26-4bd4-4984-ae99-3e2ccfa9fae1.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/73b14d36-1de8-406d-ac5d-62505a443738",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/73b14d36-1de8-406d-ac5d-62505a443738.webp",
+      "size": 6169680,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/7833252d-74a3-4484-8ba1-54379ad7ec48",
+      "steps": [
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/7833252d-74a3-4484-8ba1-54379ad7ec48.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/8d080422-db0a-4a5f-9757-00a85df542a8",
+      "steps": [
+        "step-02",
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/8d080422-db0a-4a5f-9757-00a85df542a8.webp",
+      "size": 125478,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/97d1a923-47c9-4c32-9082-c04d656bac6a",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/97d1a923-47c9-4c32-9082-c04d656bac6a.webp",
+      "size": 36358,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/9956a40d-f54c-445a-8114-f39b60b1b56b",
+      "steps": [
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/9956a40d-f54c-445a-8114-f39b60b1b56b.webp",
+      "size": 175756,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/9cb1335f-267f-42b7-8e8b-c5ac6bf44fd1",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/9cb1335f-267f-42b7-8e8b-c5ac6bf44fd1.webp",
+      "size": 6407262,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/9cbccc3e-2261-4895-b2b7-7606d9807dfc",
+      "steps": [
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/9cbccc3e-2261-4895-b2b7-7606d9807dfc.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/af84571d-feac-4bd6-a4a0-22cae5a182e5",
+      "steps": [
+        "step-01",
+        "step-02",
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/af84571d-feac-4bd6-a4a0-22cae5a182e5.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/b58bde93-0e84-4dc0-8edc-5a191718affa",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/b58bde93-0e84-4dc0-8edc-5a191718affa.webp",
+      "size": 4817182,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/bf039f71-59c7-4875-91f8-edfbe4cdc85e",
+      "steps": [
+        "step-13"
+      ],
+      "local_path": "assets/step-13/bf039f71-59c7-4875-91f8-edfbe4cdc85e.webp",
+      "size": 148223,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/c76cad57-29a9-4c37-b96a-27e5e4c9355b",
+      "steps": [
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/c76cad57-29a9-4c37-b96a-27e5e4c9355b.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/e3948ef8-c6b6-4905-afb0-462e650b65d4",
+      "steps": [
+        "step-13"
+      ],
+      "local_path": "assets/step-13/e3948ef8-c6b6-4905-afb0-462e650b65d4.webp",
+      "size": 219000,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/e3b2464d-1704-4480-9e97-340073713ce4",
+      "steps": [
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/e3b2464d-1704-4480-9e97-340073713ce4.webp",
+      "size": 152596,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/e816cf73-22d2-4d4e-96f9-b92c51fb2ed3",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/e816cf73-22d2-4d4e-96f9-b92c51fb2ed3.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/eefb3c24-b29a-48b3-af9c-bae2c49eca0f",
+      "steps": [
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/eefb3c24-b29a-48b3-af9c-bae2c49eca0f.webp",
+      "size": 25454,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/f0c83f84-c57c-48af-9802-138b3726faed",
+      "steps": [
+        "step-02",
+        "step-03",
+        "step-04",
+        "step-05",
+        "step-06",
+        "step-07",
+        "step-08",
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/f0c83f84-c57c-48af-9802-138b3726faed.webp",
+      "size": 162353,
+      "content_type": "image/webp"
+    },
+    {
+      "url": "https://cdn.xquiz.co/images/f3480bcd-6bab-407f-819e-54a2eed8cfb3",
+      "steps": [
+        "step-09",
+        "step-10",
+        "step-11",
+        "step-12",
+        "step-13"
+      ],
+      "local_path": "assets/shared/f3480bcd-6bab-407f-819e-54a2eed8cfb3.webp",
+      "size": 6410224,
+      "content_type": "image/webp"
+    }
+  ],
+  "fonts": {
+    "css_url": "https://fonts.bunny.net/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700&display=swap",
+    "css_local": "assets/fonts/poppins.css",
+    "woff2": [
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-devanagari-300-italic.woff2",
+        "local_path": "assets/fonts/poppins-devanagari-300-italic.woff2",
+        "size": 45772
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-devanagari-300-normal.woff2",
+        "local_path": "assets/fonts/poppins-devanagari-300-normal.woff2",
+        "size": 39412
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-devanagari-400-italic.woff2",
+        "local_path": "assets/fonts/poppins-devanagari-400-italic.woff2",
+        "size": 45968
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-devanagari-400-normal.woff2",
+        "local_path": "assets/fonts/poppins-devanagari-400-normal.woff2",
+        "size": 39660
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-devanagari-500-normal.woff2",
+        "local_path": "assets/fonts/poppins-devanagari-500-normal.woff2",
+        "size": 39084
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-devanagari-700-italic.woff2",
+        "local_path": "assets/fonts/poppins-devanagari-700-italic.woff2",
+        "size": 45060
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-devanagari-700-normal.woff2",
+        "local_path": "assets/fonts/poppins-devanagari-700-normal.woff2",
+        "size": 39252
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-300-italic.woff2",
+        "local_path": "assets/fonts/poppins-latin-300-italic.woff2",
+        "size": 8712
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-300-normal.woff2",
+        "local_path": "assets/fonts/poppins-latin-300-normal.woff2",
+        "size": 7840
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-400-italic.woff2",
+        "local_path": "assets/fonts/poppins-latin-400-italic.woff2",
+        "size": 8668
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-400-normal.woff2",
+        "local_path": "assets/fonts/poppins-latin-400-normal.woff2",
+        "size": 7884
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-500-normal.woff2",
+        "local_path": "assets/fonts/poppins-latin-500-normal.woff2",
+        "size": 7748
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-700-italic.woff2",
+        "local_path": "assets/fonts/poppins-latin-700-italic.woff2",
+        "size": 8596
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-700-normal.woff2",
+        "local_path": "assets/fonts/poppins-latin-700-normal.woff2",
+        "size": 7816
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-ext-300-italic.woff2",
+        "local_path": "assets/fonts/poppins-latin-ext-300-italic.woff2",
+        "size": 5956
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-ext-300-normal.woff2",
+        "local_path": "assets/fonts/poppins-latin-ext-300-normal.woff2",
+        "size": 5524
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-ext-400-italic.woff2",
+        "local_path": "assets/fonts/poppins-latin-ext-400-italic.woff2",
+        "size": 5964
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-ext-400-normal.woff2",
+        "local_path": "assets/fonts/poppins-latin-ext-400-normal.woff2",
+        "size": 5644
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-ext-500-normal.woff2",
+        "local_path": "assets/fonts/poppins-latin-ext-500-normal.woff2",
+        "size": 5484
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-ext-700-italic.woff2",
+        "local_path": "assets/fonts/poppins-latin-ext-700-italic.woff2",
+        "size": 5860
+      },
+      {
+        "url": "https://fonts.bunny.net/poppins/files/poppins-latin-ext-700-normal.woff2",
+        "local_path": "assets/fonts/poppins-latin-ext-700-normal.woff2",
+        "size": 5432
+      }
+    ]
+  }
+}
