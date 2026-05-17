@@ -38,7 +38,7 @@ export function ScoreStep() {
 
   if (phase === 'loading') {
     return (
-      <div className="flex min-h-[70vh] w-full flex-col items-center justify-center gap-6 px-4">
+      <div className="flex min-h-[70dvh] w-full flex-col items-center justify-center gap-6 px-4">
         <div className="w-full max-w-sm">
           <div className="relative h-3 w-full overflow-hidden rounded-full bg-gray-200">
             <div

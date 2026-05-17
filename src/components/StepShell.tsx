@@ -1,16 +1,21 @@
 'use client';
 
-import { ReactNode, useEffect, useState } from 'react';
+import { ReactNode, useEffect, useRef, useState } from 'react';
 import { useQuiz } from '@/store/quizStore';
 import { Header } from './Header';
 
 export function StepShell({ children }: { children: ReactNode }) {
   const stepIndex = useQuiz((s) => s.stepIndex);
   const [animKey, setAnimKey] = useState(stepIndex);
+  const lastStepRef = useRef<number | null>(null);
 
   useEffect(() => {
+    if (lastStepRef.current === stepIndex) return;
+    lastStepRef.current = stepIndex;
     setAnimKey(stepIndex);
-    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+    if (typeof window !== 'undefined') {
+      window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+    }
   }, [stepIndex]);
 
   return (

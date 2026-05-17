@@ -24,13 +24,13 @@ const config: Config = {
           '50%': { transform: 'scale(1.02)' },
         },
         entry: {
-          '0%': { transform: 'translateX(100%)', opacity: '0' },
-          '100%': { transform: 'translateX(0)', opacity: '1' },
+          '0%': { transform: 'translate3d(0, 12px, 0)', opacity: '0' },
+          '100%': { transform: 'translate3d(0, 0, 0)', opacity: '1' },
         },
       },
       animation: {
         'cta-pulse': 'pulse 1s ease-in-out infinite',
-        'step-entry': 'entry 0.35s cubic-bezier(.4,0,.2,1) both',
+        'step-entry': 'entry 0.28s cubic-bezier(.4,0,.2,1) both',
       },
       boxShadow: {
         cta: '0 20px 25px -5px rgba(0,0,0,.1), 0 10px 10px -5px rgba(0,0,0,.04)',
