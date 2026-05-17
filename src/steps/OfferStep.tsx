@@ -10,7 +10,7 @@ import { OFFER_IMAGES } from '@/lib/content';
 import { trackEvent } from '@/lib/pixel';
 
 const CHECKOUT_URL =
-  process.env.NEXT_PUBLIC_CHECKOUT_URL ?? 'https://lastlink.com/p/C5707A7F9/checkout-payment';
+  process.env.NEXT_PUBLIC_CHECKOUT_URL ?? 'https://gustagoat.mycartpanda.com/checkout/210183915:1';
 
 export function OfferStep() {
   const handlePurchase = () => {
