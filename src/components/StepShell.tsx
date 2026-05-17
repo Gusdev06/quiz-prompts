@@ -8,7 +8,10 @@ export function StepShell({ children }: { children: ReactNode }) {
   const stepIndex = useQuiz((s) => s.stepIndex);
   const [animKey, setAnimKey] = useState(stepIndex);
 
-  useEffect(() => setAnimKey(stepIndex), [stepIndex]);
+  useEffect(() => {
+    setAnimKey(stepIndex);
+    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+  }, [stepIndex]);
 
   return (
     <div className="flex w-full flex-col gap-6">

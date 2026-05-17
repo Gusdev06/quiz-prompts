@@ -23,6 +23,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               fbq('init','${FB_PIXEL_ID}'); fbq('track','PageView');`}
           </Script>
         ) : null}
+        <Script
+          src="https://assets.mycartpanda.com/cartx-ecomm-ui-assets/js/cpsales.js"
+          strategy="afterInteractive"
+        />
         {children}
       </body>
     </html>

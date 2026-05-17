@@ -35,6 +35,12 @@
   --font-poppins: 'Poppins', ui-sans-serif, system-ui, sans-serif;
 }
 
+html,
+body {
+  overflow-x: hidden;
+  overscroll-behavior-y: contain;
+}
+
 body {
   background: #f8fafc;
   color: #020617;
