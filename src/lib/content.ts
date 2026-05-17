@@ -102,17 +102,7 @@ Haz clic en continuar para ver los resultados reales de mis prompts👇`,
     cta: 'Quiero acceder a estos Prompts, gustagoat...',
   },
   {
-    // 9 / Step 10 — NSFW disclaimer
-    title: 'Sobre imágenes NSFW (18+)',
-    body: `No trabajamos con ese tipo de entrega, o sea, no tenemos prompts para generar ese tipo de imagen dentro de gustagoat.ai, ¡solo modelos en bikini y sensuales!
-
-Pero si quieres acceder a los prompts más realistas que vas a encontrar en internet, ya sea para crear anuncios con I.A o cualquier otra imagen con vibra extremadamente realista, ¡serás muy bienvenido a nuestra gang!🤝
-
-Haz clic en continuar👇`,
-    cta: 'Continuar...',
-  },
-  {
-    // 10 / Step 11 — Score (rendered by ScoreStep — woman photo lives in inlineUuids)
+    // 9 / Step 10 — Score (rendered by ScoreStep — woman photo lives in inlineUuids)
     title: 'TU PUNTUACIÓN',
     body: '',
     inlineUuids: ['25e1c062-a11b-4d63-9e54-aae28aa4264d'],

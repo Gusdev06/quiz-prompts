@@ -12,7 +12,7 @@ type QuizState = {
   reset: () => void;
 };
 
-export const TOTAL_STEPS = 13;
+export const TOTAL_STEPS = 12;
 
 export const useQuiz = create<QuizState>((set) => ({
   stepIndex: 0,

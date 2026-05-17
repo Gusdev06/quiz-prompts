@@ -6,7 +6,7 @@ import { StepShell } from '@/components/StepShell';
 import { trackCustom } from '@/lib/pixel';
 import { useQuiz } from '@/store/quizStore';
 
-const STEP_INDEX = 11;
+const STEP_INDEX = 10;
 
 const BULLETS = [
   '**+ de 350 Prompts Listos**, con realismo absurdo, ya liberados para que solo copies y pegues',

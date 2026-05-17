@@ -9,7 +9,7 @@ import { imgFor } from '@/lib/assets';
 import { STEPS } from '@/lib/content';
 import { useQuiz } from '@/store/quizStore';
 
-const STEP_INDEX = 10;
+const STEP_INDEX = 9;
 const SCORE = 89;
 const LOAD_DURATION_MS = 3200;
 

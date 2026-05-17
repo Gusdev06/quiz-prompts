@@ -18,9 +18,9 @@ export default function Home() {
     if (stepIndex === 6) return <CaseStudyStep />;
     if (stepIndex === 7) return <AuthorityStep />;
     if (stepIndex === 8) return <GalleryStep />;
-    if (stepIndex === 10) return <ScoreStep />;
-    if (stepIndex === 11) return <FeaturesStep />;
-    if (stepIndex === 12) return <OfferStep />;
+    if (stepIndex === 9) return <ScoreStep />;
+    if (stepIndex === 10) return <FeaturesStep />;
+    if (stepIndex === 11) return <OfferStep />;
     return <StandardStep index={stepIndex} />;
   };
 

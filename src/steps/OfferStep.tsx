@@ -113,7 +113,7 @@ export function OfferStep() {
         </div>
         <div className="flex flex-col items-center rounded-lg bg-cta px-3 py-2 text-white">
           <span className="text-xs">3x de</span>
-          <span className="text-lg font-bold leading-none">$7,13</span>
+          <span className="text-lg font-bold leading-none">$6,99</span>
         </div>
       </div>
 
