@@ -44,10 +44,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             a.setAttribute("src","https://cdn.utmify.com.br/scripts/pixel/pixel.js");
             document.head.appendChild(a);`}
         </Script>
-        <Script
-          src="https://assets.mycartpanda.com/cartx-ecomm-ui-assets/js/cpsales.js"
-          strategy="afterInteractive"
-        />
         {children}
       </body>
     </html>
