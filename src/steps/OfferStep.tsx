@@ -14,7 +14,7 @@ const CHECKOUT_URL =
 
 export function OfferStep() {
   const handlePurchase = () => {
-    trackEvent('InitiateCheckout', { currency: 'USD', value: 21.39 });
+    trackEvent('InitiateCheckout', { currency: 'USD', value: 9.99 });
     window.location.href = CHECKOUT_URL;
   };
 
@@ -112,8 +112,8 @@ export function OfferStep() {
           </div>
         </div>
         <div className="flex flex-col items-center rounded-lg bg-cta px-3 py-2 text-white">
-          <span className="text-xs">3x de</span>
-          <span className="text-lg font-bold leading-none">$6,99</span>
+          <span className="text-xs">1x de</span>
+          <span className="text-lg font-bold leading-none">$9,99</span>
         </div>
       </div>
 
