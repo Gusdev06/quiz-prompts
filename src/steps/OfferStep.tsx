@@ -10,7 +10,7 @@ import { OFFER_IMAGES } from '@/lib/content';
 import { trackEvent } from '@/lib/pixel';
 
 const CHECKOUT_URL =
-  process.env.NEXT_PUBLIC_CHECKOUT_URL ?? 'https://gustagoat.mycartpanda.com/checkout/210183915:1';
+  process.env.NEXT_PUBLIC_CHECKOUT_URL ?? 'https://pay.mycheckoutt.com/019e74ba-047f-7180-ae34-4c146d5e4105?ref=';
 
 export function OfferStep() {
   const handlePurchase = () => {
