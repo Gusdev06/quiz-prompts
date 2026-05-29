@@ -1,6 +1,7 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import Script from 'next/script';
+import { Footer } from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'gustagoat.ai',
@@ -45,6 +46,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             document.head.appendChild(a);`}
         </Script>
         {children}
+        <Footer />
       </body>
     </html>
   );
